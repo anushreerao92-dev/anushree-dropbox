@@ -1,0 +1,13 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
+
+  adminConnectors:
+    - type: http
+      port: 8081
+
+dropbox:
+  clientId: "u4vi3q5w96o1swp"
+  clientSecret: "1b3sr3vw2vcmizf"
+  redirectUri: "http://localhost:8080/dropbox/callback"
