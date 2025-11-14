@@ -10,7 +10,7 @@ Build the project
 Run the Dropwizard server
 
 For eg : 
-java -jar target/cloud-eagle-anushree-1.0-SNAPSHOT.jar server src/main/resources/config.yml
+> java -jar target/cloud-eagle-anushree-1.0-SNAPSHOT.jar server src/main/resources/config.yml
 
 Response of the team get info API endpoint running in my localhost
 
